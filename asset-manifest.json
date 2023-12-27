@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yourprepod/perugames/static/css/main.f4844a7c.css",
+    "main.js": "/yourprepod/perugames/static/js/main.671949bb.js",
+    "static/js/787.9ed8d020.chunk.js": "/yourprepod/perugames/static/js/787.9ed8d020.chunk.js",
+    "static/media/11.jpg": "/yourprepod/perugames/static/media/11.4449922fe3d0befd3085.jpg",
+    "static/media/pattern.svg": "/yourprepod/perugames/static/media/pattern.2ac47829faaadad79990.svg",
+    "index.html": "/yourprepod/perugames/index.html",
+    "main.f4844a7c.css.map": "/yourprepod/perugames/static/css/main.f4844a7c.css.map",
+    "main.671949bb.js.map": "/yourprepod/perugames/static/js/main.671949bb.js.map",
+    "787.9ed8d020.chunk.js.map": "/yourprepod/perugames/static/js/787.9ed8d020.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4844a7c.css",
+    "static/js/main.671949bb.js"
+  ]
+}
