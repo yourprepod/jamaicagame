@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/perugames/static/css/main.ddd28b34.css",
-    "main.js": "/perugames/static/js/main.0c631290.js",
+    "main.js": "/perugames/static/js/main.b20e4895.js",
     "static/js/787.9ed8d020.chunk.js": "/perugames/static/js/787.9ed8d020.chunk.js",
     "static/media/33.png": "/perugames/static/media/33.5b3ac75db97f86a13643.png",
     "static/media/pattern.svg": "/perugames/static/media/pattern.2ac47829faaadad79990.svg",
     "index.html": "/perugames/index.html",
     "main.ddd28b34.css.map": "/perugames/static/css/main.ddd28b34.css.map",
-    "main.0c631290.js.map": "/perugames/static/js/main.0c631290.js.map",
+    "main.b20e4895.js.map": "/perugames/static/js/main.b20e4895.js.map",
     "787.9ed8d020.chunk.js.map": "/perugames/static/js/787.9ed8d020.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddd28b34.css",
-    "static/js/main.0c631290.js"
+    "static/js/main.b20e4895.js"
   ]
 }
