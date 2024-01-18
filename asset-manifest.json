@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/jamaicagames/static/css/main.b0bd3f59.css",
-    "main.js": "/jamaicagames/static/js/main.6df6eb60.js",
+    "main.js": "/jamaicagames/static/js/main.484d5b14.js",
     "static/js/787.9ed8d020.chunk.js": "/jamaicagames/static/js/787.9ed8d020.chunk.js",
-    "static/media/33.png": "/jamaicagames/static/media/33.5b3ac75db97f86a13643.png",
+    "static/media/5.png": "/jamaicagames/static/media/5.1dba8fe2624660ec3f3e.png",
     "static/media/pattern.svg": "/jamaicagames/static/media/pattern.2ac47829faaadad79990.svg",
     "index.html": "/jamaicagames/index.html",
     "main.b0bd3f59.css.map": "/jamaicagames/static/css/main.b0bd3f59.css.map",
-    "main.6df6eb60.js.map": "/jamaicagames/static/js/main.6df6eb60.js.map",
+    "main.484d5b14.js.map": "/jamaicagames/static/js/main.484d5b14.js.map",
     "787.9ed8d020.chunk.js.map": "/jamaicagames/static/js/787.9ed8d020.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0bd3f59.css",
-    "static/js/main.6df6eb60.js"
+    "static/js/main.484d5b14.js"
   ]
 }
