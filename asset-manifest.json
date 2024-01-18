@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/perugames/static/css/main.ddd28b34.css",
-    "main.js": "/perugames/static/js/main.a2b27dc3.js",
-    "static/js/787.9ed8d020.chunk.js": "/perugames/static/js/787.9ed8d020.chunk.js",
-    "static/media/33.png": "/perugames/static/media/33.5b3ac75db97f86a13643.png",
-    "static/media/pattern.svg": "/perugames/static/media/pattern.2ac47829faaadad79990.svg",
-    "index.html": "/perugames/index.html",
-    "main.ddd28b34.css.map": "/perugames/static/css/main.ddd28b34.css.map",
-    "main.a2b27dc3.js.map": "/perugames/static/js/main.a2b27dc3.js.map",
-    "787.9ed8d020.chunk.js.map": "/perugames/static/js/787.9ed8d020.chunk.js.map"
+    "main.css": "/jamaicagames/static/css/main.b0bd3f59.css",
+    "main.js": "/jamaicagames/static/js/main.6df6eb60.js",
+    "static/js/787.9ed8d020.chunk.js": "/jamaicagames/static/js/787.9ed8d020.chunk.js",
+    "static/media/33.png": "/jamaicagames/static/media/33.5b3ac75db97f86a13643.png",
+    "static/media/pattern.svg": "/jamaicagames/static/media/pattern.2ac47829faaadad79990.svg",
+    "index.html": "/jamaicagames/index.html",
+    "main.b0bd3f59.css.map": "/jamaicagames/static/css/main.b0bd3f59.css.map",
+    "main.6df6eb60.js.map": "/jamaicagames/static/js/main.6df6eb60.js.map",
+    "787.9ed8d020.chunk.js.map": "/jamaicagames/static/js/787.9ed8d020.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddd28b34.css",
-    "static/js/main.a2b27dc3.js"
+    "static/css/main.b0bd3f59.css",
+    "static/js/main.6df6eb60.js"
   ]
 }
